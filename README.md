@@ -1,2 +1,1 @@
-pew pew
-thats my first repo
+pew pew that's my first repo
